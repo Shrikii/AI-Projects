@@ -1,2 +1,4 @@
-# Object-detection
-This is an AI program using Python to detect an object using Camera
+# AI Projects
+These are the AI projects developed by me
+# 1. Object Detection
+# 2. Face Detection
